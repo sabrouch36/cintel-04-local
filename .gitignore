@@ -1,14 +1,4 @@
 # Byte-compiled / optimized / DLL files
-faicons
-palmerpenguins
-pandas
-pyarrow
-plotly
-seaborn
-shiny
-shinylive
-shinywidgets
-
 __pycache__/
 *.py[codz]
 *$py.class
